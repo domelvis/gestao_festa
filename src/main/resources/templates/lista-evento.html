@@ -34,9 +34,9 @@
         <td th:text="${evento.data}"></td>
         <td th:text="${evento.horaii}"></td>
         <td th:text="${evento.horaff}"></td>
-        <td> <a th:href="@{/listar/{id}(id=${evento.id})}" class="btn btn-primary"> Listar convidados </a></td>
-        <td> <a th:href="@{/editar/{id}(id=${evento.id})}" class="btn btn-primary"> Atualizar </a></td>
-        <td> <a th:href="@{/excluir/{id}(id=${evento.id})}" class="btn btn-primary" style="background-color:red; border-color:red;"> Excluir </a></td>
+        <td> <a th:href="@{/event/listar/{id}(id=${evento.id})}" class="btn btn-primary"> Listar convidados </a></td>
+        <td> <a th:href="@{/evento/editar/{id}(id=${evento.id})}" class="btn btn-primary"> Atualizar </a></td>
+        <td> <a th:href="@{/evento/excluir/{id}(id=${evento.id})}" class="btn btn-primary" style="background-color:red; border-color:red;"> Excluir </a></td>
       </tr>
     </table>
   
