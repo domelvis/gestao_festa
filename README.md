@@ -110,3 +110,13 @@ Este projeto está sob licença. Veja o arquivo LICENSE para mais detalhes.
 Para dúvidas ou problemas relacionados ao projeto, entre em contato com a equipe de desenvolvimento.
 
 🧑‍💻 Desenvolvido por [Centro paula souza - etec ] - 🏛️ Governo do Estado de São Paulo - ETEC
+
+💌 Contato Elvis Marcelo pereira de souza
+
+E-mail: 📧 elvishootsrockreggae@hotmail.com - djpetrelli239@gmail.com
+
+GitHub: 🔗 https://github.com/domelvis
+
+LinkedIn: 🔗 https://www.linkedin.com/in/elvis-marcelo-pereira-de-souza-1690bb259/
+
+Feito com ❤️ por Dom Elvis
